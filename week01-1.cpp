@@ -1,13 +1,13 @@
-/// week01-1.cpp ºÆ¨gµ{³] ¨â¼Æ¬Û¥[
-/// File-New empty ¶}·sªºÀÉ®×
-/// Ctrl-S ¦sÀÉ¦¨ week01-1.cpp ­n°O±o¥[ .cpp
-/// ¤U©P¦Ò¸Õ¦Ò³o¹DÃD,¤£¥Î¼gÂÅ¦âªº¡u¤¤¤åµù¸Ñ¡v
-#include <stdio.h> ///ÀÉ¦W¤£¯à¼g¿ù
-///stdio ªº·N«ä
-///
+/// week01-1.cpp ç˜‹ç‹‚ç¨‹è¨­ å…©æ•¸ç›¸åŠ 
+/// File-New empty é–‹æ–°çš„æª”æ¡ˆ
+/// Ctrl-S å­˜æª”æˆ week01-1.cpp è¦è¨˜å¾—åŠ  .cpp
+/// ä¸‹å‘¨è€ƒè©¦è€ƒé€™é“é¡Œ,ä¸ç”¨å¯«è—è‰²çš„ã€Œä¸­æ–‡è¨»è§£ã€
+#include <stdio.h> ///æª”åä¸èƒ½å¯«éŒ¯
+/// stdio çš„æ„æ€æ˜¯ æ¨™æº–çš„standard input/output
+/// æœ‰äº† stdio.h çš„å¤–æ›, æ‰èƒ½ç”¨ scanf() printf()
 int main()
 {
-	int a,b;
+	int a, b; /// æ•´æ•¸ a, b
 	scanf("%d",&a);
 	scanf("%d",&b);
 
