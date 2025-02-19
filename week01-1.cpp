@@ -8,9 +8,9 @@
 int main()
 {
 	int a, b; /// 整數 a, b
-	scanf("%d",&a);
-	scanf("%d",&b);
+	scanf("%d",&a); /// 正課剛剛教, 掃描讀東西
+	scanf("%d",&b); /// 可以用複製的, 再改 b
 
-	printf("%d",a+b);
+	printf("%d",a+b); /// 實習課有教, 印東西
 
 }
